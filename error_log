@@ -1,0 +1,136 @@
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/mobile/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/desktop/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/mobile/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:08 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/desktop/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(src/desktop/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/desktop/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 57
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 4
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 6
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(src/mobile/screens/inicio.php): Failed to open stream: No such file or directory in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:27 America/Fortaleza] PHP Warning:  include(): Failed opening 'src/mobile/screens/inicio.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/hypedx14/annetom.com/index.php on line 89
+[01-Oct-2023 22:53:54 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:54:18 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:54:37 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:55:22 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:55:37 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:56:27 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:56:30 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:56:52 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:56:54 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:57:13 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:58:00 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:58:03 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:58:21 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:58:37 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:59:30 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:59:50 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 22:59:52 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:00:14 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:00:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:01:05 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:01:27 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:01:31 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:01:48 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:02:18 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:02:20 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:03:07 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:03:11 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:03:23 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:03:26 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:03:52 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:04:04 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:04:22 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:04:27 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:09:01 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:09:04 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:09:17 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:09:22 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:12:29 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:12:30 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:33:38 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:02 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:03 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:05 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:19 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:19 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:21 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:35 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:36 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[01-Oct-2023 23:52:38 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:25:59 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:25:59 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:00 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:06 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:06 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:06 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:08 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:09 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:26:10 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:28:01 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 00:48:38 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:03:27 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:03:30 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:03:31 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:03:31 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:04:39 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:11:59 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:12:45 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:12:46 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:12:58 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:14:52 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:17:31 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:17:33 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 01:20:45 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 03:37:32 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 04:11:18 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 04:43:53 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 04:46:28 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 06:04:33 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 06:04:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 06:07:30 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 06:17:09 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 07:11:25 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:18:20 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:18:58 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:20:13 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:20:44 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:22:12 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 09:22:48 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:08:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:08:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:08:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:08:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:08:34 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
+[02-Oct-2023 10:34:21 America/Fortaleza] PHP Warning:  Undefined array key "param" in /home3/hypedx14/annetom.com/index.php on line 5
